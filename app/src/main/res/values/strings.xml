@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Navigation View Components</string>
+    <string name="profile">profile</string>
+    <string name="Notification">Notification</string>
+    <string name="Mail">Mail</string>
+    <string name="Setting">Setting</string>
+    <string name="AboutUs">AboutUs</string>
+    <string name="Help">Help</string>
+    <string name="Collection">Collection</string>
+    <string name="About" />
+    <string name="Others">Others</string>
+    <string name="Collections">Collections</string>
+    <string name="cynophilist_priyanka_Nigam">cynophilist_priyanka_Nigam</string>
+    <string name="verified">verified</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

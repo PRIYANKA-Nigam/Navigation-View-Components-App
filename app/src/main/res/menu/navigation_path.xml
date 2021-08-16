@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/pro"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="@string/profile"/>
+    <item android:id="@+id/note"
+        android:icon="@drawable/ic_baseline_notifications_24"
+        android:title="@string/Notification"/>
+    <item android:id="@+id/mail"
+        android:icon="@drawable/ic_baseline_email_24"
+        android:title="@string/Mail"/>
+    <item android:id="@+id/collect"
+        android:icon="@drawable/ic_baseline_cloud_24"
+        android:title="Cloud"/>
+    <item android:id="@+id/book"
+        android:icon="@drawable/ic_baseline_bookmark_24"
+        android:title="@string/Collections"/>
+    <item android:title="@string/Others">
+        <menu>
+            <item android:id="@+id/set"
+                android:icon="@drawable/ic_baseline_settings_24"
+                android:title="@string/Setting"/>
+            <item android:id="@+id/con"
+                android:icon="@drawable/ic_baseline_contact_support_24"
+                android:title="@string/Help"/>
+            <item android:id="@+id/info"
+                android:icon="@drawable/ic_baseline_info_24"
+                android:title="@string/AboutUs"/>
+        </menu>
+    </item>
+
+</menu>
